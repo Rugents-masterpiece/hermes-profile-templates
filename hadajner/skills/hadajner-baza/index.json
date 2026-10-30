@@ -1,0 +1,322 @@
+{
+ "konspiracie-konspiracne-teorie": [
+  {
+   "file": "references/konspiracie-01.md",
+   "chars": 12181
+  },
+  {
+   "file": "references/konspiracie-02.md",
+   "chars": 12113
+  },
+  {
+   "file": "references/konspiracie-03.md",
+   "chars": 12076
+  },
+  {
+   "file": "references/konspiracie-04.md",
+   "chars": 12741
+  },
+  {
+   "file": "references/konspiracie-05.md",
+   "chars": 8313
+  },
+  {
+   "file": "references/konspiracie-06.md",
+   "chars": 12174
+  },
+  {
+   "file": "references/konspiracie-07.md",
+   "chars": 10188
+  },
+  {
+   "file": "references/konspiracie-08.md",
+   "chars": 8241
+  },
+  {
+   "file": "references/konspiracie-09.md",
+   "chars": 10271
+  },
+  {
+   "file": "references/konspiracie-10.md",
+   "chars": 12166
+  },
+  {
+   "file": "references/konspiracie-11.md",
+   "chars": 12088
+  },
+  {
+   "file": "references/konspiracie-12.md",
+   "chars": 13902
+  },
+  {
+   "file": "references/konspiracie-13.md",
+   "chars": 13553
+  },
+  {
+   "file": "references/konspiracie-14.md",
+   "chars": 12102
+  },
+  {
+   "file": "references/konspiracie-15.md",
+   "chars": 9003
+  },
+  {
+   "file": "references/konspiracie-16.md",
+   "chars": 12152
+  },
+  {
+   "file": "references/konspiracie-17.md",
+   "chars": 10214
+  },
+  {
+   "file": "references/konspiracie-18.md",
+   "chars": 13036
+  },
+  {
+   "file": "references/konspiracie-19.md",
+   "chars": 12112
+  },
+  {
+   "file": "references/konspiracie-20.md",
+   "chars": 11406
+  },
+  {
+   "file": "references/konspiracie-21.md",
+   "chars": 3801
+  },
+  {
+   "file": "references/konspiracie-22.md",
+   "chars": 13075
+  },
+  {
+   "file": "references/konspiracie-23.md",
+   "chars": 7766
+  },
+  {
+   "file": "references/konspiracie-24.md",
+   "chars": 12273
+  },
+  {
+   "file": "references/konspiracie-25.md",
+   "chars": 10688
+  },
+  {
+   "file": "references/konspiracie-26.md",
+   "chars": 12171
+  }
+ ],
+ "spiknutia": [
+  {
+   "file": "references/spiknutia-01.md",
+   "chars": 3026
+  },
+  {
+   "file": "references/spiknutia-02.md",
+   "chars": 12101
+  },
+  {
+   "file": "references/spiknutia-03.md",
+   "chars": 14528
+  },
+  {
+   "file": "references/spiknutia-04.md",
+   "chars": 10248
+  },
+  {
+   "file": "references/spiknutia-05.md",
+   "chars": 14720
+  },
+  {
+   "file": "references/spiknutia-06.md",
+   "chars": 10435
+  },
+  {
+   "file": "references/spiknutia-07.md",
+   "chars": 13134
+  },
+  {
+   "file": "references/spiknutia-08.md",
+   "chars": 11072
+  },
+  {
+   "file": "references/spiknutia-09.md",
+   "chars": 9815
+  },
+  {
+   "file": "references/spiknutia-10.md",
+   "chars": 13999
+  },
+  {
+   "file": "references/spiknutia-11.md",
+   "chars": 9309
+  },
+  {
+   "file": "references/spiknutia-12.md",
+   "chars": 12150
+  },
+  {
+   "file": "references/spiknutia-13.md",
+   "chars": 12101
+  },
+  {
+   "file": "references/spiknutia-14.md",
+   "chars": 12833
+  },
+  {
+   "file": "references/spiknutia-15.md",
+   "chars": 9885
+  },
+  {
+   "file": "references/spiknutia-16.md",
+   "chars": 8284
+  },
+  {
+   "file": "references/spiknutia-17.md",
+   "chars": 12130
+  },
+  {
+   "file": "references/spiknutia-18.md",
+   "chars": 12118
+  },
+  {
+   "file": "references/spiknutia-19.md",
+   "chars": 12487
+  },
+  {
+   "file": "references/spiknutia-20.md",
+   "chars": 8318
+  }
+ ],
+ "hadanky": [
+  {
+   "file": "references/hadanky-01.md",
+   "chars": 13013
+  },
+  {
+   "file": "references/hadanky-02.md",
+   "chars": 11998
+  },
+  {
+   "file": "references/hadanky-03.md",
+   "chars": 11384
+  },
+  {
+   "file": "references/hadanky-04.md",
+   "chars": 11248
+  },
+  {
+   "file": "references/hadanky-05.md",
+   "chars": 14942
+  },
+  {
+   "file": "references/hadanky-06.md",
+   "chars": 14448
+  },
+  {
+   "file": "references/hadanky-07.md",
+   "chars": 13816
+  },
+  {
+   "file": "references/hadanky-08.md",
+   "chars": 14171
+  },
+  {
+   "file": "references/hadanky-09.md",
+   "chars": 9780
+  },
+  {
+   "file": "references/hadanky-10.md",
+   "chars": 14719
+  },
+  {
+   "file": "references/hadanky-11.md",
+   "chars": 14933
+  },
+  {
+   "file": "references/hadanky-12.md",
+   "chars": 3177
+  }
+ ],
+ "vtipy": [
+  {
+   "file": "references/vtipy-01.md",
+   "chars": 4306
+  },
+  {
+   "file": "references/vtipy-02.md",
+   "chars": 12055
+  },
+  {
+   "file": "references/vtipy-03.md",
+   "chars": 12064
+  },
+  {
+   "file": "references/vtipy-04.md",
+   "chars": 14670
+  },
+  {
+   "file": "references/vtipy-05.md",
+   "chars": 12412
+  },
+  {
+   "file": "references/vtipy-06.md",
+   "chars": 11767
+  },
+  {
+   "file": "references/vtipy-07.md",
+   "chars": 11712
+  },
+  {
+   "file": "references/vtipy-08.md",
+   "chars": 13067
+  },
+  {
+   "file": "references/vtipy-09.md",
+   "chars": 12072
+  },
+  {
+   "file": "references/vtipy-10.md",
+   "chars": 14518
+  },
+  {
+   "file": "references/vtipy-11.md",
+   "chars": 14929
+  },
+  {
+   "file": "references/vtipy-12.md",
+   "chars": 12106
+  },
+  {
+   "file": "references/vtipy-13.md",
+   "chars": 14429
+  },
+  {
+   "file": "references/vtipy-14.md",
+   "chars": 8751
+  },
+  {
+   "file": "references/vtipy-15.md",
+   "chars": 13400
+  },
+  {
+   "file": "references/vtipy-16.md",
+   "chars": 10833
+  },
+  {
+   "file": "references/vtipy-17.md",
+   "chars": 13371
+  },
+  {
+   "file": "references/vtipy-18.md",
+   "chars": 3861
+  },
+  {
+   "file": "references/vtipy-19.md",
+   "chars": 12083
+  },
+  {
+   "file": "references/vtipy-20.md",
+   "chars": 12075
+  }
+ ]
+}

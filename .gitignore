@@ -1,0 +1,57 @@
+# Runtime state — NEVER COMMIT
+state.db*
+projects.db*
+sessions/
+memories/
+cache/
+logs/
+runtime/
+*.lock
+*.sqlite*
+
+# Credentials — NEVER COMMIT
+.env
+config.yaml
+*.env
+*.key
+*.pem
+*.p12
+
+# Internal state
+.skills_prompt_snapshot.json
+provider_models_cache.json
+.curator_*
+.hub/
+.hub.sqlite*
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+.yarn-integrity
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini

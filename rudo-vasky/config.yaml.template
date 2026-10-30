@@ -1,0 +1,24 @@
+# RudoVasky config.yaml.template — REPLACE ALL PLACEHOLDERS BEFORE USE
+model: "nvidia/nemotron-3-ultra-550b-a55b"
+provider: "nvidia"
+
+# Discord (REQUIRED)
+discord:
+  bot_token: "YOUR_DISCORD_BOT_TOKEN_HERE"
+  command_sync_policy: "safe"
+  home_channel: "YOUR_CHANNEL_ID_HERE"
+  allowed_users: "*"
+
+# External APIs (OPTIONAL)
+searxng_url: "http://127.0.0.1:8888"
+firecrawl_api_url: "http://127.0.0.1:3002"
+firecrawl_api_key: "YOUR_FIRECRAWL_KEY_HERE"
+
+# LiteLLM (OPTIONAL)
+litellm:
+  api_key: "YOUR_LITELLM_API_KEY_HERE"
+
+# TTS/STT (OPTIONAL)
+tts_stt:
+  enabled: true
+  voice: "fico"

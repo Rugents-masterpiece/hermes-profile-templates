@@ -1,0 +1,14 @@
+description: Discord chat bot for entertainment and conversation. Web, vision, 
+  memory, and TTS/STT tools available when requested; terminal only within the 
+  profile workspace. No browser, delegation, or Discord administration.
+description_auto: false
+ui_meta:
+  hermes-bots:
+    title: Rudo Vasky
+    description: Discord chat bot for entertainment and conversation. Web, 
+      vision, memory, and TTS/STT tools available when requested; terminal only 
+      within the profile workspace. No browser, delegation, or Discord 
+      administration.
+    hidden: false
+_ui_meta_revisions:
+  hermes-bots: 1
